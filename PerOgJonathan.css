@@ -1,0 +1,31 @@
+body{
+    background-image: url("Halsbrekkeren.png");
+    background-size: 50%;
+    left: 120px;
+    top:60px;
+
+}
+#proteiner {
+    color: white;
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+    color: red;
+
+}
+#kalorier{
+    text-align: center;
+    color: red;
+    text-shadow: red;
+    align-content: center;
+
+}
+
+#rating_nettside{
+    color: red;
+    font-size: 123%;
+}
+
+
